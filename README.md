@@ -1,24 +1,19 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=260&section=header&text=Mradul%20Mani%20Mishra&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Building%20AI%20Systems%20That%20Generate%20Real%20Business%20Value&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--           🥇 THE SIGNATURE — Wave Banner                   -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:CC0000,100:0D1117&height=220&section=header&text=MRADUL%20MANI%20MISHRA&fontSize=52&fontColor=FFFFFF&fontAlignY=42&desc=AI/ML%20Engineer%20%20|%20Data%20/%20Business%20Analyst%20%20|%20Full-Stack%20Developer%20&descAlignY=62&descSize=14&animation=twinkling" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=18&pause=800&color=2F81F7&center=true&vCenter=true&width=900&height=60&lines=⚡+92%25+ML+Precision+on+Live+Health+Systems;📊+1%2C000%2C000%2B+Records+Processed+in+Production;🏆+5+Patents+Filed+Before+Graduation;🚀+Co-Founded+a+Platform+with+100%2B+Active+Users;💡+I+Build+Things+That+Actually+Work+in+the+Real+World" alt="Typing SVG"/>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--        🥇 THE SIGNATURE — Typing Animation                 -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<br/>
-
-[
-[
-[
-[
-
-<br/>
-
-
-
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=19&pause=900&color=2F81F7&center=true&vCenter=true&width=900&height=65&lines=⚡+92%25+ML+Precision+on+Live+Production+Health+Systems;📊+1%2C000%2C000%2B+Records+Processed+in+a+Single+Dashboard;🏆+5+Patents+Filed+Before+Graduation+%7C+GLA+University;🚀+Co-Founded+a+Live+Platform+with+100%2B+Active+Users;💡+I+Don't+Just+Code+—+I+Engineer+Outcomes+That+Scale;🔬+3+Days+of+Manual+Work+Automated+Down+to+4+Hours" alt="Typing SVG"/>
 
 </div>
 
@@ -27,7 +22,6 @@
 <div align="center">
 
 ## ❝ I Don't Just Write Code — I Engineer Outcomes Backed by Data ❞
-
 </div>
 
 ***
@@ -74,39 +68,6 @@ class MradulManiMishra:
 
 ***
 
-## 📊 GitHub at a Glance
-
-<div align="center">
-
-
-
-
-
-
-</div>
-
-***
-
-## ⚡ Impact at a Glance
-
-<div align="center">
-
-| 🎯 Metric | 📈 Result |
-|-----------|----------|
-| ML Anomaly Detection Precision | **92%** |
-| Data Integrity on Live Sensor Streams | **99.9%** |
-| E-Commerce Records Processed | **1,000,000+** |
-| User Engagement Lift (Bookose) | **+40%** |
-| Query Latency Reduction | **-35%** |
-| Manual Errors Eliminated (NLP) | **-60%** |
-| Claims Processing Time | **3 days → 4 hours** |
-| Estimated Downtime Reduction | **~25%** |
-| Active Platform Users | **100+** |
-| Filed Patents Before Graduation | **5** |
-
-</div>
-
-***
 
 ## 🛠️ Technical Arsenal
 
@@ -176,32 +137,6 @@ class MradulManiMishra:
 
 ***
 
-## 🚀 Featured Projects
-
-| 🏷️ Project | 📅 | 💥 Business Impact | ⚡ Stack |
-|------------|----|--------------------|---------|
-| **CommerceIQ** — AI E-Commerce Analytics | 2026 | Gemini API NL insights on **1M+ records**, eliminated siloed reporting | Python · PostgreSQL · FastAPI · Streamlit · Plotly · Gemini API |
-| **Acoustic Machine** — ML Fault Detection | 2025 | **90% accuracy**, ~**25% downtime reduction** for industrial machines | Python · TensorFlow · Keras · Signal Processing |
-| **Insurance Claims NLP** — Automation | 2024 | **60% fewer errors**, processing **3 days → 4 hours** | PyTorch · Transformers · SpaCy · Python |
-| **Vitalis Ring** — Wearable Health ML | 2025–Now | **92% ML precision**, **99.9% data integrity** on live streams | Python · Keras · TensorFlow · Pandas |
-| **Bookose Platform** — Community Marketplace | 2024 | **100+ users**, **+40% engagement**, full-stack solo build | React · Node.js · PostgreSQL · MongoDB · Redis |
-
-***
-
-## 🎓 Education
-
-<div align="center">
-
-| 🏛️ | Details |
-|----|---------|
-| **Institution** | GLA University, Mathura, Uttar Pradesh |
-| **Degree** | B.Tech — Computer Science Engineering |
-| **Duration** | August 2022 – June 2026 |
-| **Key Coursework** | Data Structures · DBMS · Operating Systems · Machine Learning |
-
-</div>
-
-***
 
 ## 🏆 Patents & Certifications
 
@@ -254,11 +189,11 @@ class MradulManiMishra:
 <tr>
 <td>
 
-✅ Data Analyst / ML Engineer<br/>
-✅ Full-Stack Developer<br/>
-✅ Python Developer<br/>
-✅ Software Engineer (AI)<br/>
-✅ NLP / Data Engineer
+- [x] Data Analyst / ML Engineer<br/>
+- [x] Full-Stack Developer<br/>
+- [x] Python Developer<br/>
+- [x] Software Engineer (AI)
+- [x] NLP / Data Engineer
 
 </td>
 <td>
@@ -304,19 +239,13 @@ class MradulManiMishra:
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=120&section=footer&animation=fadeIn" width="100%"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Mradulmanimishra&label=Profile%20Views&color=2F81F7&style=for-the-badge)
+
+## ❝ All before graduating. Imagine what I deliver full-time ❞
 
 ### 📬 Ready to Talk? Let's Connect.
 
-[
-[
-[
-
 <br/>
-
-
-
-
 
 *⭐ If my work impresses you — let's build something together.*
 
