@@ -34,17 +34,6 @@ class MradulManiMishra:
     Final-Year Engineer | ML Systems Builder | Patent Holder | Startup Co-Founder
     The kind of developer who ships real products, not just side projects.
     """
-    def __init__(self):
-        self.name             = "Mradul Mani Mishra"
-        self.role             = "ML Engineer · Full-Stack Developer · Data Analyst"
-        self.university       = "GLA University, Mathura — B.Tech CS (2022–2026)"
-        self.location         = "Mathura, Uttar Pradesh, India"
-        self.phone            = "+91-9068142980"
-        self.email            = "mradulmanimishra2022@gmail.com"
-        self.patents_filed    = 5
-        self.live_products    = 2   # Bookose + Vitalis Ring
-        self.years_building   = 3
-
     def value_proposition(self) -> str:
         return """
         ✅ Built ML systems achieving 92% precision on live health sensor data
