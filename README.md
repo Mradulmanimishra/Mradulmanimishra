@@ -18,6 +18,13 @@
 </div>
 
 ***
+<div align="center">
+
+![GitHub Snake](https://raw.githubusercontent.com/Mradulmanimishra/Mradulmanimishra/output/github-snake-dark.svg)
+
+</div>
+
+***
 
 <div align="center">
 
